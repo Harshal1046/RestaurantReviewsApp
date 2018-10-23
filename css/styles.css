@@ -170,7 +170,7 @@ nav h1 a {
   display: flex;
   flex-direction: column;
   background-color: #fff;
-  border: 2px solid #ccc;
+  border: 2px solid #0078a8;
   font-family: Arial,sans-serif;
   margin: 15px;
   min-height: 380px;
