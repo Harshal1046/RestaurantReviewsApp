@@ -26,4 +26,8 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 * Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write.
 
 
+## Screenshots :
 
+![Map](https://user-images.githubusercontent.com/37037973/47348699-af27de00-d6cf-11e8-8ac8-29b0dd55e52e.png)
+![Restaurant list](https://user-images.githubusercontent.com/37037973/47348701-afc07480-d6cf-11e8-8f18-26c045fa4ea4.png)
+![Restauraunt review](https://user-images.githubusercontent.com/37037973/47348698-af27de00-d6cf-11e8-8554-a4b11eda4361.png)
